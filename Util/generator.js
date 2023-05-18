@@ -5,4 +5,4 @@ var generator = new sequential.Generator({
     restore:"000"
 });
 generator.start();
-module.exports= generator;
+module.exports= generator   
